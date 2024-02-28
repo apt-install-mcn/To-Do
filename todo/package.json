@@ -1,8 +1,8 @@
 {
-  "name": "my-react-task-list",
+  "name": "todo",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "commonjs": "module",
   "scripts": {
     "dev": "gulp minify-css && vite",
     "build": "gulp build",
